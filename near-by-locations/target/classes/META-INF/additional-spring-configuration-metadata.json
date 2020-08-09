@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.key",
+    "type": "java.lang.String",
+    "description": "api key that required to call Here Map Rest api"
+  },
+  {
+    "name": "url",
+    "type": "java.lang.String",
+    "description": "url that required to call Here Map Rest api"
+  }
+]}
