@@ -12,6 +12,7 @@
 - Test Class: TestDistanceController
 - city_coordinates.properties file contains City coardinates.
 - while testing please update active apiKey in application.properties file.
+- URL : http://localhost:8191/city?city=berlin
 
 #### `Sample output from my system :`
 {
